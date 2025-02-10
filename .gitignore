@@ -17,4 +17,7 @@ __pycache__/
 .vscode/
 .idea/
 
+# Models
+components/models/segmentation/detr-resnet-50-panoptic
+
 # Données générées
