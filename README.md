@@ -36,10 +36,6 @@ gradio
 
 `python.exe -m pip install --upgrade pip`
 
-**Install Torch**
-
-Choose the version that suit your environment.
-
 **Install the other librairies**
 
 `pip install -r requirements.txt`
