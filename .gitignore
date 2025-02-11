@@ -19,6 +19,3 @@ __pycache__/
 
 # Données générées
 detr-resnet-50-panoptic/
-components/models/image_to_text/vit-gpt2-image-captioning.ipynb
-components/models/segmentation/detr-resnet-50-panoptic.ipynb
-components/models/text_summary/bart-large-cnn.ipynb
